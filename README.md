@@ -12,7 +12,7 @@ Specifically, the workflow:
 
 ## Workflow Diagram
 
-<img width="1147" alt="workflowdiagram" src="https://github.gatech.edu/hmiura3/first_wf/assets/97627/024c0e9a-0147-4aab-8d04-c08dfc57efb1">
+<img width="1147" alt="Screenshot 2025-04-11 at 7 25 04 PM" src="https://github.com/user-attachments/assets/8c7dae93-9f1e-4fc4-9d1f-3ca7ef655426" />
 
 ## Requirements
 
